@@ -1,3 +1,6 @@
+[![Flutter Version](https://img.shields.io/badge/Flutter-%2B3.0-blue)](https://flutter.dev)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # 🛍️ Shopping App (Flutter)
 
 A **multilingual shopping application** built with **Flutter** as part of an academic assignment. The app demonstrates **clean architecture**, **localization**, **state management basics**, and a **modern UI**.
@@ -143,6 +146,7 @@ On the **Welcome Screen**, click the language toggle button to switch between En
 ✔ **Clean code & reusable widgets**
 
 ---
+
 
 
 
