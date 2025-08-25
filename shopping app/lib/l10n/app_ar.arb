@@ -1,0 +1,12 @@
+{
+  "appTitle": "تطبيق التسوق",
+  "welcome": "أهلاً بك!",
+  "signUp": "إنشاء حساب",
+  "signIn": "تسجيل الدخول",
+  "ourProducts": "منتجاتنا",
+  "hotOffers": "العروض الساخنة",
+  "accountCreated": "تم إنشاء الحساب بنجاح",
+  "accountSignedIn": "تم تسجيل الدخول بنجاح",
+  "close": "إغلاق",
+  "@@locale": "ar"
+}
