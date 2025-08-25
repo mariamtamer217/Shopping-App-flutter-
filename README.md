@@ -58,7 +58,7 @@ A **multilingual shopping application** built with **Flutter** as part of an aca
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/mariamtamer217/shopping_app.git
+   git clone https://github.com/mariamtamer217/Shopping-App-flutter-.git
    cd shopping_app
    ```
 
@@ -143,5 +143,6 @@ On the **Welcome Screen**, click the language toggle button to switch between En
 ✔ **Clean code & reusable widgets**
 
 ---
+
 
 
