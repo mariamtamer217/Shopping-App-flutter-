@@ -45,11 +45,11 @@ A **multilingual shopping application** built with **Flutter** as part of an aca
 
 | Welcome Screen                      | Sign Up                            | Sign In                            |
 | ----------------------------------- | ---------------------------------- | ---------------------------------- |
-| [Welcome](shopping_app/screenshots/welcome.PNG) | [Sign Up](screenshots/signup.PNG) | [Sign In](screenshots/signin.png) |
+| [Welcome](shopping_app/screenshots/welcome.PNG) | [Sign Up](screenshots/signup.PNG) | [Sign In](screenshots/signin.PNG) |
 
 | Dialog                            | Home Screen                         | Arabic UI                           |
 | --------------------------------- | ----------------------------------- | ----------------------------------- |
-| [Dialog](screenshots/dialog.png) | [Home](screenshots/homescreen.png) | [Arabic](screenshots/arabicui.png) |
+| [Dialog](screenshots/dialog.PNG) | [Home](screenshots/homescreen.PNG) | [Arabic](screenshots/arabicui.PNG) |
 
 ---
 
@@ -143,6 +143,7 @@ On the **Welcome Screen**, click the language toggle button to switch between En
 ✔ **Clean code & reusable widgets**
 
 ---
+
 
 
 
